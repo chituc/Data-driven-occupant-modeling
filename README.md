@@ -3,7 +3,7 @@ RF and K-NN for occupancy pattern in office buildings
 
 Data-driven occupant modeling
 
-Data sources are retrived from https://github.com/EBC-Annex-79/Data-Driven-Occupant-Modeling/tree/master/data/sdu-2018-1building-3datatypes
+Data sources are retrived from https://github.com/EBC-Annex-79/Data-Driven-Occupant-Modeling/tree/master/data/sdu-2018-1building-3datatypes .
 To cite dataset:
 
 @inproceedings{Arendt:2018:ROC:3277868.3277875,
