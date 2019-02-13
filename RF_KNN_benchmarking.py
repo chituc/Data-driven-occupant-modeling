@@ -17,7 +17,7 @@ import numpy as np
 
 
 def get_files():
-    #get a list of strings with path and file names: ['E:/Github/data\\Room1.csv', ...]
+    #get a list of strings with path and file names: ['D:/Github/data\\Room1.csv', ...]
     fileList = glob.glob("./data/Room*")
     dataSetName = []
     for fileName in fileList:
