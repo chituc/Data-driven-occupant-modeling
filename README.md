@@ -23,3 +23,8 @@ To cite dataset:
  address = {New York, NY, USA},
  keywords = {CO2, data, occupant sensing},
 } 
+
+
+
+To cite the modeling resources presented here:
+Chitu, Claudia, et al. "Building Occupancy Estimation using Supervised Learning Techniques." 2019 The 15th IEEE International Conference on Control and Automation, Scotland
