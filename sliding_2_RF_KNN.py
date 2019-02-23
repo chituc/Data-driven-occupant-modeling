@@ -1,5 +1,5 @@
 #script to apply Random Forest and K-NN for classification for 4 datasets: first 10 days train and next 2 test
-#slide with 1 day: 10 days train and next 2 days for test and tehn continue to slide 1 day
+#slide with 1 day: 10 days train and next 2 days for test and then continue to slide 1 day
 #error is RMSE to evaluate each model
 #plot is done for first 60 minutes of records and predicted values in benchmarking
 
