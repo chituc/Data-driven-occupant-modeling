@@ -28,4 +28,4 @@ To cite dataset:
 
 To cite the software modeling resources presented here:
 
-Chitu, Claudia, et al. "Building Occupancy Estimation using Supervised Learning Techniques." 2019 The 15th IEEE International Conference on Control and Automation, Scotland
+Chitu, Claudia, et al. "Building Occupancy Estimation using Supervised Learning Techniques." 2019 23rd International Conference on System Theory, Control and Computing, October 9-11, 2019, Sinaia, Romania
